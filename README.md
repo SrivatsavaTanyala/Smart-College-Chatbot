@@ -1,4 +1,4 @@
-# 🎓 Smart College Chatbot v3 — SR University
+# 🎓 Smart College Chatbot — SR University
 
 An intelligent NLP-powered chatbot for SR University, Warangal using **Sentence-BERT** embeddings for high-accuracy intent classification (90%+ accuracy).
 
